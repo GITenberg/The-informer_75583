@@ -1,0 +1,26 @@
+_repo: The-informer_75583
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Flaherty, Liam
+    gutenberg_agent_id: '58058'
+    url: http://www.gutenberg.org/2009/agents/58058
+description: ''
+gutenberg_issued: '2025-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75583'
+language: en
+pgterms:marc904: https://archive.org/details/informer01ofla
+pgterms:marc905: 20250307043715oflaherty
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bAlfred A. Knopf, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The informer
+url: http://www.gutenberg.org/ebooks/75583
